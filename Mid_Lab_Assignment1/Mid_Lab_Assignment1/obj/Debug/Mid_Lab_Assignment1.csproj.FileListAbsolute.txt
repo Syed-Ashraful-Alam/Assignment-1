@@ -1,0 +1,7 @@
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\bin\Debug\Mid_Lab_Assignment1.exe.config
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\bin\Debug\Mid_Lab_Assignment1.exe
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\bin\Debug\Mid_Lab_Assignment1.pdb
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\obj\Debug\Mid_Lab_Assignment1.csprojAssemblyReference.cache
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\obj\Debug\Mid_Lab_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\obj\Debug\Mid_Lab_Assignment1.exe
+C:\Users\msi\Desktop\Assignment 1\Mid_Lab_Assignment1\Mid_Lab_Assignment1\obj\Debug\Mid_Lab_Assignment1.pdb
